@@ -2,10 +2,11 @@
 
 * [Introduction](README.md)
    * [SousSection](soussection.md)
-* [1941 - Counter Attack (1990)](articles/1941-counter-attack-1990.md)
-* [1941 - Counter Attack (1991)](articles/1941-counter-attack-1991.md)
-* [1942 (1985)](articles/1942-1985.md)
-* [1942 (1999)](articles/1942-1999.md)
+* [Capcom]
+    * [1941 - Counter Attack (1990)](articles/1941-counter-attack-1990.md)
+    * [1941 - Counter Attack (1991)](articles/1941-counter-attack-1991.md)
+    * [1942 (1985)](articles/1942-1985.md)
+    * [1942 (1999)](articles/1942-1999.md)
 * [1942 - Midway (1984)](articles/1942-midway-1984.md)
 * [1943 - Kaï (1987)](articles/1943-kai-1987.md)
 * [1943 - Kaï (1991)](articles/1943-kai-1991.md)
