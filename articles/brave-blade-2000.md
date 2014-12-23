@@ -1,0 +1,26 @@
+#Brave Blade
+
+Caractéristiques | Information
+- | -
+Testeur|Katmoda
+Année|2000
+Support|Arcade
+Editeur|Raizing
+Joueurs|3
+Scrolling|ver
+
+## Critique
+Les shoots utilisant d'autres armes que des tirs à distance sont rares, et souvent au mieux expérimentaux (Cybattler ou le très étrange Sol Divide...). C'est avec <b>Brave Blade</b> que 8ing / Raizing a décidé de mélanger ses deux univers fétiches (le medfan "monstres - trésors" de la série Mahoo et la destruction urbaine des Batrider / Garegga) et de tenter l'aventure d'un shoot très axé sur le gros pétage de tronche au corps à corps.<br/><br/>Comme toujours avec la firme à l'éclair, une grande attention est portée sur le détail, les petites astuces et le character design. On peut ainsi faire son choix parmi 5 personnages bien typés: chacun d'eux dispose, sous sa forme initiale de vaisseau d'un tir frontal, plus ou moins évasé, et d'une arme secondaire (homing, missile, tir orientable...).  Du classique.<br/>Avec une pression du bouton B, chaque vaisseau se transforme (se <i>gerwalkise</i>?) en un chevalier robot expert en arme blanche (épée, lance, hache, griffes...) pouvant tabasser comme le dernier des sauvages les ennemis passant à courte portée. <br/>Point subtil, on dispose aussi d'une jauge de "garde", permettant d'activer un bouclier (pression B maintenue) ou quand la jauge est pleine de déchaîner son héros en une attaque mêlant avec bonheur frappes destructrices et invulnérabilité temporaire. Chaque tir / coup encaissé fait diminuer cette jauge, qui remonte peu à peu, forçant donc le joueur a bien calculer sa gestion de la garde, entre tactique défensive et stratégie 100% attaque.<br/><br/>Une fois son fier guerrier choisi, on est surpris par une intro tout à fait surprenante puisque tout en 3D. Un choix inhabituel chez Raizing, qui s'explique en partie par le matériel utilisé (le Sony ZN), assez proche d'une Playstation. Le look général et les ambiances sont familières, mais le rendu graphique est assez curieux, une sorte de 3D essayant d'imiter le plus possible la 2D, avec finalement presque aucun effet de véritable troisième dimension. On notera quelques mouvement de caméra, bien rares, et l'un ou l'autre boss utilisant un peu la profondeur, mais rien de spectaculaire (et surtout rien d'infaisable en 2D classique)..<br/><br/>Un premier contact avec les niveaux initaux rassure le joueur rendu inquiet par tous ces pixels un poils baveux façon Playstation: ça masse. Le gameplay est féroce et brutal, la jouabilité parfaite renforçant encore l'impression de puissance virile que dégagent les petits personnages vidant l'écran à grandes mandales circulaires, force et honneur à tous les étages.<br/><br/>Le level design est simpliste (vagues - boss - et hop) mais efficace. Comme très souvent chez Raizing on a pensé aux scoreurs qui trouveront plein de petites astuces pour entrer dans le hall of fame: ramasser les classiques médailles dans l'ordre, mais aussi... taper dessus :) chaque gnon augmentant la valeur d'un cran, on se retrouve rapidement à jongler avec des médailles tout en tabassant les ennemis. Les boss en poupées russes sont parfois impressionnants, comme le joli dragon de lave, mais dans l'ensemble relativement ternes et assez peu détaillés. Leurs séquences de transformation restent bien vues, tout comme les motifs de tir. La difficulté est d'abord franchement basse, les quatres premiers niveaux sont une occasion de se familiariser avec les techniques d'enchaînement et la gestion du bouclier. Passé le level 5 les petits joueurs se retrouveront sur un terrain qu'ils ont pu connaitre avec Dimahoo ou autres: mort - mort - crédit - etc. <br/><br/>Brave Blade, le Raizing ultime? Si l'aspect visuel est un point mineur, sans doute : avec un gameplay moins farfelu que d'habitude, une excellente maniabilité, une gestion très réussie du combat au corps à corps, une difficulté évolutive et surtout un aspect très défoulant, le jeu est un bon prétendant au titre. <br/>D'un autre côté les fanatiques du style Mahoo / Garegga seront sans doute un peu déçus: ici pas de débauche luxuriante au niveau visuel, les millions de pixels sculptés main ont cédé la place à une 3D finalement plutôt inutile, avec des décors vides et des sprites un peu flous. Au niveau de l'ambiance et de l'univers, le mélange medfan / futuriste passe aussi moins bien que d'habitude, on a un peu l'impression d'être face à un collage sans réelle cohésion. La comparaison visuelle avec Dimahoo, sorti la même année, est sans pité...<br/>Brave Blade en 2D d'orfèvre aurait sans doute remporté tous les suffrages, mais il n'en reste pas moins le meilleur shoot "orienté baston" et un excellent shoot!
+
+## Illustrations
+![](http://www.shmup.com/images/thumbs/img_fiche_1_816.jpg)
+![](http://www.shmup.com/images/thumbs/img_fiche_2_816.jpg)
+![](http://www.shmup.com/images/thumbs/img_fiche_3_816.jpg)
+![](http://www.shmup.com/images/thumbs/img_fiche_4_816.jpg)
+![](http://www.shmup.com/images/thumbs/img_fiche_5_816.jpg)
+
+## L'avis Katmoda
+Note globale|8
+-|-
+Graphisme|Sympathiques, mais clairement trois tons en dessous des productions habituelles de la marque. La 3D est quasi inutile.
+Son|Bandes sons assez ternes, bruitages sans histoire.

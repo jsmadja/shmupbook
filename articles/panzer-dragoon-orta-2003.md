@@ -1,0 +1,26 @@
+#Panzer Dragoon Orta
+
+Caractéristiques | Information
+- | -
+Testeur|Marthe2k3
+Année|2003
+Support|Xbox
+Editeur|Sega
+Joueurs|1
+Scrolling|mul
+
+## Critique
+Je constate avec effroi le manque du test de <b>Panzer Dragoon Orta</b> dans cet auguste site, qui j'en suis sur, figure dans vos favoris, si il n'est pas déjà en page de lancement :-)<br/>Quoi qu'il en soit, je me dois de délaisser mon MSX chéri pour quelques temps et réparer cet affront envers un jeu qui m'a décidé à lui seul d'acheter une XBOX, et une saturn (au temps des premiers épisodes, ça va de soi).<br/><br/>Je ne vous ferai pas l'affront de vous rappeler le système de jeu, pour les noobs, veuillez consulter les excellents tests des premiers opus.<br/>Après un passage par le RPG (avec le sublime <i>Panzer Dragoon Azel</i>), cet épisode revient à ses racines, à savoir un shoot survitaminé, et néanmoins poétique, voire onirique. Certes on désoude des méchants à la pelle, mais jamais on a l'impression de perpétrer des actes violents. Cette sensation, comme dans les deux premiers, contribue à l'ambiance unique et si plaisante de la série.<br/><br/>Concrètement, cet épisode XBOX s'inscrit dans la droite lignée de <b>Panzer Dragoon Zwei</b>, puisque bien que le joueur soit guidé, plusieurs chemins sont disponibles par niveau. Ceux ci ne sont pas clairement indiqués, ce qui atténue l'impression d'être trop guidé. Certains déploreront ce manque de lisibilité, personnellement je trouve que c'est un bon parti pris, les embranchements se trouvant toujours à des endroits relativement logiques, pendant des accalmies. Cela rajoute un petit côté recherche pas désagréable et favorise l'immersion. <br/>Bien sûr, les chemins les plus difficiles seront mieux récompensés en orbes, permettant au dragon de muter en une version plus puissante. <br/><br/>A ce titre, SEGA n'a pas oublié totalement le passage de la série par le rpg, car une notion (bon, réduite ok, mais c'est toujours bon à prendre) de level up est présente. Votre dragon peut permuter entre 3 formes à tout moment. La plus utilisée est la standard, qui permet un jeu équilibré, et un berserk (une jauge se chargeant au fur et à mesure que l'on shoote des vilains) touchant de nombreuses cibles. On préfèrera la forme "ailes légères" quand on fait face à une multitude d'ennemis où quand on aborde un défilé rocheux des plus étroits, cette forme permettant de se concentrer sur le pilotage, car elle est d'une part beaucoup plus rapide et petite, et d'autre part elle vise automatiquement les adversaires. <br/>Pas de lock en contrepartie. Enfin, la forme "ailes lourdes" nous fait piloter un dragon énorme, mais moins vulnérable aux attaques, et qui dispose d'un nombre de lock réduit mais dévastateur. Son berserk met à mal les boss les plus puissants. Les fameuses orbes évoquées plus haut sont obtenues en détruisant des ennemis bien précis qu'il faudra apprendre à ne pas rater. Elles viennent upgrader le dragon utilisé au moment où elles sont prises, ce qui oblige souvent à swaper de dragon en plein combat pour upgrader les formes équitablement, qui se verront ainsi créditer d'un plus grand nombre de locks, d'un tir rapide plus efficace, et d'un berserk boosté aux hormones.<br/><br/>Ce gameplay affiné sert un jeu long, mais légèrement inégal. Les stages d'anthologie (le premier, le 4e et son armada aérienne, le niveau de la grande bibliothèque) alternent avec des niveaux plus ternes (le niveau "virtuel", le 2e stage). De même, si il y a une débauche d'effets, les décors sont globalement assez vides, et on attendait légèrement plus de la XBOX. Les musiques sont elles, bien dans la veine du 2e épisode, et on peut déplorer les thèmes épiques de 1er et de Azel. <br/><br/>Le jeu est bien sûr assez difficile, mais pas plus que de raison. Tout joueur y trouvera son compte, mais j'ai personnellement opté pour le niveau hard dès le départ histoire de prolonger la découverte. Les boss ne sont pas forcément très difficiles, mais sont rendus délicats par leur extrême résistance, si bien qu'ils vous auront à l'usure...<br/><br/>Mais qui aime bien châtie bien, et ces quelques bémols ne doivent pas masquer qu'il s'agit là, peut-être pas d'un chef d'oeuvre ultime, mais néanmoins d'un jeu exceptionnel. De plus, pour prolonger le plaisir, le <b>Panzer Dragoon</b> original est dispo en bonus, ainsi que des missions relatant l'histoire d'un personnage annexe rencontré dans le jeu, et qui offre une maniablité tout à fait différente (crispante diront les plus nerveux comme moi :-)).<br/><br/>Si on rajoute à cela le peu de shoots XBOX dispos, je me demande vraiment ce que vous foutez encore à lire cet article alors que vous devriez survoler des cieux flamboyants et traverser des déserts de glace.<br/>Atreyu, Falcor attendez moi !!! (ah merde, c'est l'histoire sans fin ça....)
+
+## Illustrations
+![](http://www.shmup.com/images/thumbs/img_fiche_1_755.jpg)
+![](http://www.shmup.com/images/thumbs/img_fiche_2_755.jpg)
+![](http://www.shmup.com/images/thumbs/img_fiche_3_755.jpg)
+![](http://www.shmup.com/images/thumbs/img_fiche_4_755.jpg)
+![](http://www.shmup.com/images/thumbs/img_fiche_5_755.jpg)
+
+## L'avis Marthe2k3
+Note globale|9
+-|-
+Graphisme|Du dément et du 
+Son|Des sonorités typiques de la saga, qui plongent bien dans l'ambiance.

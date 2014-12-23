@@ -1,0 +1,26 @@
+#Thunder Force II
+
+Caractéristiques | Information
+- | -
+Testeur|Hagane
+Année|1988
+Support|x68000
+Editeur|Technosoft
+Joueurs|1
+Scrolling|mul
+
+## Critique
+Est-il encore nécessaire de présenter Thunder Force ? Pour ceux qui viennent de débarquer, il s’agit d’une série mythique et beaucoup de joueurs lui vouent, à juste titre, un véritable culte. Habituellement, la saga de Tecno Soft est souvent associée aux machines Sega, or en réalité cette série a débutée sur les ordis japonais. Certes, la version Megadrive a déjà eu droit à son <a href="index.php?page=fiche&id=750"> test </a> sur le site, mais ceux qui ont essayé la version japonaise du jeu auront remarqué la mention « MD » de l’écran titre. En effet, très peu savent qu’il s’agit en réalité d’un portage, la version originelle étant sortie en 1988 sur X68000.<br/>Et comme les différences entre les deux moutures sont assez importantes, une nouvelle fiche s’imposait.<br/><br/>L’histoire de Thunder Force 2 fait suite aux événements du premier opus. L’empire ORN, après sa défaite, s’est attelé à la construction d’un nouveau vaisseau de guerre : le Plealos. Cela dans l’unique but d’attaquer leur ennemi héréditaire la « Galaxy Federation ».<br/>Heureusement, ceux-ci sont informés des intentions des envahisseurs et décident d’attaquer le vaisseau amiral directement à la source avec l’aide du successeur du Fire-Leo (à l’origine de leur première victoire). Et c’est à bord du Fire-Leo 02, nom de code Exzelica, que notre héros se rend sur la planète Nebula où se jouera le destin de la race humaine.<br/><br/>Cet épisode est considéré comme transitoire dans la chronologie de la saga, je m’explique : il reprend le gameplay du premier opus à savoir des phases à scrolling multidirectionnel (les « top-view stages ») où le but sera de détruire des bases afin de pouvoir passer au niveau suivant.<br/>Mais il est aussi celui qui va véritablement établir les bases des futurs épisodes car il annonce la direction que prendra la série en proposant aussi des niveaux à scrolling horizontal (les « side view stages »).<br/>C’est également la première fois que Tecno Soft introduit le système d’armement qui deviendra par la suite la référence, à savoir 2 armes par défaut : les fameux « twin shots » (tir frontal) et « back shot » (tir arrière), auxquels viennent se rajouter une flopée d’armes supplémentaires. Autre nouveauté qui fait son apparition et qui sera ensuite repris par les futurs itérations : les modules « claws ». Ceux-ci viennent en aide au vaisseau en tirant sur les différents ennemis mais aussi en bloquant certains de leurs tirs. Un power up vous permettra même d’augmenter la vitesse de rotation de ceux-ci de manière à ce qu’ils constituent un bouclier.<br/><br/>Passons maintenant à la partie la plus intéressante du test à savoir les différences entre la version X68k et la version MD. Je vais essayer d’être exhaustif, les éléments suivants étant absent du jeu sorti sur Megadrive:<br/><br/>• Présence d’une scène d’introduction où l’histoire nous est présentée dans la langue de Miyazaki.<br/>• Option « auto fire » activable dans le menu de configuration.<br/>• Vous pouvez afficher une map lors des niveaux à scrolling multidirectionnel en appuyant sur la touche Esc du clavier afin de déterminer votre position par rapport aux bases que vous devez détruire.<br/>• Qualité sonore bien meilleure sur X68k, surtout au niveau des digits qui il faut l’avouer étaient peu compréhensible sur son équivalent console.<br/>• Graphiquement le jeu est plus beau sur l’ordinateur de Sharp, cela se remarque au niveau des couleurs (la palette de celle-ci étant plus riche), mais surtout dans les top-view stages où des parallaxes supplémentaires sont affichés.<br/>• La difficulté est bien plus importante sur X68000, les derniers niveaux étant un véritable enfer.<br/>• Certaines armes sont différentes en apparence bien que leur fonctionnement reste sensiblement le même.<br/><br/>Mais LA grosse différence c’est que cet opus X68k bénéficie de deux stages supplémentaires (voir screenshots ci-contre) qui ont été honteusement supprimés de la version MD : le stage 3-1 (top-view) ainsi que le 4-2 (side-view). Ces 2 niveaux supplémentaires méritent à eux seuls d’oublier la version MD.<br/><br/>Vous l’aurez constaté, cette version est en tout point supérieure à celle sortie sur la machine de Sega, bien qu’intrinsèquement le jeu reste le même. C'est-à-dire que les critiques portées à son égard restent valable, notamment la présence discutable des niveaux à scrolling multidirectionnel qui sont loin de faire l’unanimité parmi les joueurs. Mais n’hésitez pas à le tester pour parfaire votre culture shmuppesque mais aussi parce que dans le fond cela reste un excellent jeu. <br/><br/>PS : cette version n’a pas été incluse dans la compile sortie sur Saturn et reste donc une exclusivité du X68000.
+
+## Illustrations
+![](http://www.shmup.com/images/thumbs/img_fiche_1_1130.jpg)
+![](http://www.shmup.com/images/thumbs/img_fiche_2_1130.jpg)
+![](http://www.shmup.com/images/thumbs/img_fiche_3_1130.jpg)
+![](http://www.shmup.com/images/thumbs/img_fiche_4_1130.jpg)
+![](http://www.shmup.com/images/thumbs/img_fiche_5_1130.jpg)
+
+## L'avis Hagane
+Note globale|7
+-|-
+Graphisme|Techniquement impeccable
+Son|TechnoSoft inside !

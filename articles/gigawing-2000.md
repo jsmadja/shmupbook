@@ -1,0 +1,26 @@
+#Gigawing
+
+Caractéristiques | Information
+- | -
+Testeur|Trizeal
+Année|2000
+Support|Dreamcast
+Editeur|Capcom
+Joueurs|3
+Scrolling|ver
+
+## Critique
+Voici l’adaptation sur la reine blanche d’un monument, que dis-je d’un précurseur, des manic shooters à boucliers. Saluons (à l’époque) l’effort de Capcom qui un an après sa sortie en arcade propose pour nous pauvres petits occidentaux une version Pal. L’initiative étant plus que rare (les shoots sortit en Pal sur Dreamcast se comptent sur une seule main) elle méritait d’être soulignée !<br/><br/>D’abord il existe déjà un excellent test sur le site de la <a href="index.php?page=fiche&id=215">version arcade</a> que vous invite à lire ou à relire. Je m’évertuerai donc à présenter les différences avec l’orignal. Notons aussi que le jeu en version japonaise souffre de quelques défauts de compatibilité avec les dreamcast européennes (pour ceux qui utilise les dc-x par exemple) au niveau des câbles rgb. Ne possédant pas la version japonaise je ne peux vous donner des renseignements plus précis mais le forum pourra répondre à vos attentes ^^.<br/><br/>Néanmoins un petit rappel s’impose pour les néophytes. Dans Gigawing vous aurez le choix entre quatre protagonistes qui se différencient principalement par leurs armes secondaires afin de poursuivre le médaillon à travers les 6 niveaux (plus un caché). Vous disposez en plus d’une smart bomb pratique pour nettoyer l’écran et surtout du reflectbarrier. En maintenant appuyée la touche de tir standard vous déclenchez cette arme qui permet, outre d’obtenir l’invincibilité dans un court laps de temps, de retourner à l’envoyeur toutes les boulettes ennemis. L’aspect stratégique et le timing devient prépondérant pour l’utiliser à bon escient car un déluge de tirs nourris accompagnera votre périple.<br/><br/>Abordons maintenant les différences avec la version arcade. Un mode gallery est disponible afin de contempler les artworks du jeu, sympa si vous appréciez le look manga des différents personnages. Le mode options permet évidemment de régler votre nombre de vaisseaux et de bombes en stocks. Mais surtout on peut régler la difficulté du jeu qui influe seulement sur la résistance des ennemis (donc pas de variations des motifs de tirs). Mais bien sur étant donné que les ennemis disposent de plus de temps pour envoyer des boulettes, l’écran devient surchargé (et le mot est faible !) si vous tentez les difficultés les plus élevées.<br/><br/>Le premier apport de cette version est de permettre de débloquer un vaisseau bonus le Stranger. Inutile de se le cacher mais j’en ai bavé comme pas possible pour le débloquer. Il faut bien sur one crédité le jeu (en éliminant forcement le true last boss). N’étant pas un expert des manic je vous laisse imaginer mon cri de joie quand j’ai  enfin réussi. Le vaisseau est bien sur cracké par rapport aux autres avec une puissance et une vélocité sans pareilles et permet de scorer avec beaucoup plus de facilité.<br/><br/>En plus cette version nous gratifie d’un nouveau mode de jeu bien pensé le Score Attack. Par contre chaque niveau possède son propre classement, on ne peut donc pas enchainer tous les levels d’un coup en cumulant son score. Nous avons donc droit à un nouveau multiplicateur en fonction de son temps de survie. En effet chaque médaille rapporte à l’origine un certain nombre de points prédéfini. Mais maintenant la médaille possède une valeur multipliée par ce nouvel indicateur. Comme cet indicateur est une sorte de chronomètre qui défile constamment certaines médailles rapportent rapidement des points exceptionnellement élevés. Ce mode de survivor ne permet aucune erreur car à chaque mort le multiplicateur repart de zéro. L’utilisation des bombes sera aussi proscrite sinon le résultat sera identique ! Enfin comme le reflectbarrier permet de transformer les boulettes en item il est inutile de vous dire que son utilisation doit être optimale afin de scorer au max. Un mode énormément endurant et stressant à réserver aux pros des boulettes adeptes de challenges corsés.<br/><br/>Pour les différences techniques on identifie clairement que les graphismes sont moins fins et un peu plus pixelisés que sur arcade. Mais cela est largement compensé par le fait que les quelques ralentissements sont moins présents dans cette version. Les oreilles attentives remarqueront aussi que les musiques sont remixées pour l’occasion pour un résultat plus pêchu et nerveux.<br/><br/>Comment dire sans passer pour un fanboy ? Cette adaptation est tout simplement indispensable à tous possesseurs de Dreamcast. Il permet de profiter d’un défouloir ultime saupoudré d’un gameplay unique avec le reflectbarrier. Même si aujourd’hui il s’avère dépassé techniquement sa prise en main très simple et intuitive le rend idéal pour démarrer dans l’univers des manic. Un vrai condensé de fun et de plaisir !<br/>
+
+## Illustrations
+![](http://www.shmup.com/images/thumbs/img_fiche_1_1364.png)
+![](http://www.shmup.com/images/thumbs/img_fiche_2_1364.png)
+![](http://www.shmup.com/images/thumbs/img_fiche_3_1364.png)
+![](http://www.shmup.com/images/thumbs/img_fiche_4_1364.png)
+![](http://www.shmup.com/images/thumbs/)
+
+## L'avis Trizeal
+Note globale|9
+-|-
+Graphisme|Moins joli que la version arcade mais cela reste du tout bon pour peu qu’on aime le style 
+Son|Let's go rock !

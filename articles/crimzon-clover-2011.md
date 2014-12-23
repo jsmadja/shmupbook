@@ -1,0 +1,26 @@
+#Crimzon Clover
+
+Caractéristiques | Information
+- | -
+Testeur|Dan
+Année|2011
+Support|PC
+Editeur|Yotsubane
+Joueurs|1
+Scrolling|ver
+
+## Critique
+Si le titre du jeu fait référence à une variété de trèfle présente en Europe, Clover est avant tout la contraction de « Cave-Lover ». En effet, son développeur n’est autre que Yotsubane, aka Clover-TAC, un superplayer japonais qu’on ne présente plus. Il s’est déjà illustré dans de nombreux STG de Cave. Pas étonnant donc qu’il se soit inspiré de shoots majeurs comme Ketsui, DDP Daifukkatsu, et d’autres pointures du genre.<br/><br/><br/>Cinq années de travail ont été nécessaires à Yotsubane pour développer ce danmaku vertical. D’abord présenté au 78e Comicket à Tokyo (version 0.30), il est finalement sorti en janvier 2011 lors du 79e Comicket (version 1.00). La version actuelle (1.01) corrige quelques bugs, permet d’enregistrer ses parties, ainsi que de choisir entre une présentation japonaise ou internationale du score.<br/><br/><br/>Le système de jeu combine différents éléments connus mais rarement (jamais ?) utilisés ensemble : un tir rapide (ou tir principal), un système de lock, et une jauge de bombe / break. En voici un aperçu (pour plus de détails sur le scoring, un <a href="http://forum.shmup.com/viewtopic.php?f=18&t=14138">tutoriel est disponible sur le forum</a>).<br/><br/>-Lorsqu’on utilise le bouton de lock (cf. <a href="index.php?page=fiche&id=79">Rayforce</a>), un radar (cf. <a href="index.php?page=fiche&id=284">Soukyugurentai</a>) s’étend et sélectionne les ennemis. Une fois relâché, un laser puissant est envoyé et les détruit. Le lock permet aussi de réduire la vitesse du vaisseau.<br/><br/>-La jauge de bombe / break est visible en haut à droite de l’écran. Elle augmente quand on touche / détruit des ennemis. Remplie entre 50 et 99%, elle permet de bomber (ce qui réduira le rank en mode Simple). Une fois à 100%, le joueur peut utiliser le break mode (et sa version ultime, le double break mode), qui ressemble à l’hyper de <a href="index.php?page=fiche&id=1159">DDP Daifukkatsu</a>. Attention toutefois : le break mode ne cancelant pas directement les tirs, il faudra slalomer entre les boulettes.<br/><br/><br/>Le jeu dispose de 3 modes :<br/><br/>-Simple qui, comme son nom l’indique, est un mode simplifié. A l'instar de <a href="index.php?page=fiche&id=38">Battle Garegga</a>, il est basé sur un système de rank (correspondant au niveau de la jauge de break). Et comme dans <a href="index.php?page=fiche&id=482">Ketsui</a>, plus on se colle aux ennemis, plus on gagne d’étoiles (!) et de points (la jauge de break doit être pleine).<br/><br/>-Original qui, contrairement aux Mushihimesama, est le mode de jeu standard. Il introduit le break mode, ce dernier permettant de récolter un flot d’étoiles et de voir son score s’envoler.<br/><br/>-Unlimited, qui est un vrai feu d'artifice. Il reprend le système de l’Original, mais le nombre de tirs à l’écran est démultiplié (le type Z est plus que conseillé). Dans ce mode, détruire un ennemi avec le laser (lorsque la barre de lock est au maximum) permet d’annuler tous les tirs ennemis.<br/><br/><br/>Un seul vaisseau (type I) est disponible au départ. Les deux autres (type II et type Z) se débloquent via le limitter shop. Le type Z est le plus puissant des trois et sa jauge de break se remplit plus vite. Dans le shop, on peut également obtenir des crédits, le mode Unlimited, les stages select pour s’entraîner… Tous ces achats se font avec les étoiles collectées durant les parties.<br/><br/><br/>L’univers de Crimzon Clover se dévoile au travers de cinq stages conduisant à un boss final (True Last Boss si 1cc). L’ambiance, à la fois mécanique et organique, n’est pas sans rappeler Matrix. Les graphismes sont bons (n’oublions pas qu’il s’agit d’un doujin !), et les patterns bien pensés et visuellement très réussis (mention spéciale au mode Unlimited). Quant aux musiques, elles sont efficaces et contribuent bien à l’atmosphère du jeu (à noter que l’Unlimited possède ses propres thèmes).<br/><br/><br/>Yotsubane ayant été influencé par des références du shmup, tous les ingrédients étaient réunis pour avoir un titre de qualité. Restait à équilibrer l’ensemble et à le rendre cohérent…!? Mission accomplie !! Il s’est parfaitement approprié ces différents éléments de gameplay pour en faire quelque chose d’unique, de personnel. Naviguer entre les boulettes est un pur plaisir auquel viennent s’ajouter l’utilisation du lock (jouissive) et le cancel des patterns. Des détails comme le compteur de temps de jeu global, les sons indiquant l’état des jauges, « l’aspect cockpit » de l’écran…, montrent tout le soin apporté à ce jeu. Quant au challenge, il est bien présent mais reste accessible de par les différents modes proposés. Crimzon Clover est en tout point une réussite : en résumé, c’est un must-have !<br/><br/>
+
+## Illustrations
+![](http://www.shmup.com/images/thumbs/img_fiche_1_1484.png)
+![](http://www.shmup.com/images/thumbs/img_fiche_2_1484.png)
+![](http://www.shmup.com/images/thumbs/img_fiche_3_1484.png)
+![](http://www.shmup.com/images/thumbs/img_fiche_4_1484.png)
+![](http://www.shmup.com/images/thumbs/img_fiche_5_1484.png)
+
+## L'avis Dan
+Note globale|9
+-|-
+Graphisme|De bonne qualité.
+Son|Des thèmes efficaces, dont certains qui restent dans la tête.

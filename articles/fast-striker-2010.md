@@ -1,0 +1,26 @@
+#Fast Striker
+
+Caractéristiques | Information
+- | -
+Testeur|Trizeal
+Année|2010
+Support|Dreamcast
+Editeur|ngdevteam
+Joueurs|1
+Scrolling|ver
+
+## Critique
+Décidément ce support continue toujours d’accueillir des titres malgré sa mort commerciale depuis belle lurette. Le studio allemand Redspotgames déjà auteur de Last Hope et Last Hope Pink Bullets nous propose donc la conversion d’un soft Neo Geo. La version MVS disponible quelques mois auparavant s’affiche réellement à un prix complètement aberrant (400 euros !!!). Je ne saurai que vous conseiller de l’acheter sur Dreamcast pour une somme bien inférieure et largement plus en adéquation avec l’intérêt du shoot. La parenthèse financière étant terminé voyons ce que Fast Striker possède dans le ventre !<br/><br/>Warning ! Warning ! Toute ressemblance avec softs existants ne serait que pure coïncidence et ne pourrait être que fortuite. Cette petite boutade tend à expliquer que les influences du titre sont très facilement identifiables (Cave mais pas seulement). Ainsi rien ne sera inédit ou déjà inventé, en conséquence l’originalité ne sera pas vraiment sa première qualité.<br/><br/>Quatre modes de jeu au programme avec premièrement le mode novice. Devenu un passage obligé ces derniers temps sur toutes les adaptations de Cave (au hasard -_-). Moins de boulettes, plus accessible et système de scoring plus simple. Pour le gameplay on reste léger avec un tir standard avant ou arrière accompagné d’un bouclier automatique. Des étoiles à récolter font office de multiplicateur et les cinq niveaux se traversent avec un minimum d'entrainement.<br/><br/>Le mode Original. On sent direct l’écart de difficulté avec plus de boulettes, un sixième niveau et un bouclier manuel. Le scoring évolue quelque peu avec déjà un tir concentré accompagné de missiles qui permet d’obtenir des points supplémentaires (des boules dorées) et des capsules remplacent les étoiles. Ce mode représente déjà un challenge certain même si la principale embuche au onecc viendra de l’affrontement avec ce satané boss final vicelard comme pas permis.<br/><br/>Au tour du Mode Maniac qui cherche à contenter les amateurs de challenge corsé et scoring complexe. Déjà on dispose en plus d’un laser à la Cave et d’un système de chain. Pour la maintenir il suffit de détruire des ennemis méthodiquement dans un laps de temps imparti pour ne pas instantanément « casser » la chaine. Mais en plus on active un second système de chain si on abat un gros ennemi avec le laser : le Grind Meter. Votre vaisseau devient alors vert (comme son tir) et cela rapporte plus mais en contrepartie la chaine est plus difficile à tenir. Et ce n’est pas fini car il faut gérer aussi les zones de proximités : plus l’ennemi est proche plus cela rapporte de le descendre. Enfin on peut obtenir un bouclier supplémentaire en collectant les items appropriés. Pas mal de paramètres à maitriser pour scorer sans compter une difficulté assez effrayante…<br/><br/>Le mode Omake (bonus) : encore plus de boulettes ! Le mode le plus hardcore reprenant les bases du scoring du maniac tout en exagérant la prolifération des patterns ennemis. Un déluge asse impressionnant visuellement avec en plus moins de bouclier à collecter. Vraiment, peu de joueurs pourront en voir le bout. Même aucun à l’heure actuelle si on se fit au ranking officiel online du jeu.<br/><br/>Pour être complet il faut évoquer les technical bonus et les secrets valables dans tout les modes. Ceux-ci limités dans chaque niveaux font apparaître une mascotte absolument hideuse mais pour plus de points. Il existe enfin un système de rank (de 1 à Devil) avec suicides boulettes à la clé. Bon perso j’ai du mal avec ce rank car son contrôle me parait quelquefois aléatoire (ou plutot je n’ai pas compris toute sa subtilité…).<br/><br/>Techniquement si on accroche à l’univers (métallisés ou robotisés) le jeu reste très agréable à l’oeil. Les décors de fond d’une belle profondeur lassent par contre car se répètent à l’infini. L’ensemble ne souffre aucunement de défauts de lisibilité mais de quelques ralentissements non préjudiciables (en Omake). Une réalisation soignée excepté sur les écrans de loadings absolument abominables de laideur et de longueur (même entre les niveaux…).<br/><br/>Inutile de chercher en quoi ce titre est innovant car il ne l’est pas. Ngdevteams’approprie les codes et gameplay des autres manics pour proposer son titre en voguant sur la mode actuelle. Mais comme cela est fait de manière convaincante on se laisse facilement embarquer et avec plaisir. Un shoot sympathique au final qui ne dénote pas dans la ludothèque de son support tout en restant assez loin des cadors du genre.<br/>
+
+## Illustrations
+![](http://www.shmup.com/images/thumbs/img_fiche_1_1450.jpg)
+![](http://www.shmup.com/images/thumbs/img_fiche_2_1450.jpg)
+![](http://www.shmup.com/images/thumbs/img_fiche_3_1450.jpg)
+![](http://www.shmup.com/images/thumbs/img_fiche_4_1450.jpg)
+![](http://www.shmup.com/images/thumbs/img_fiche_5_1450.jpg)
+
+## L'avis Trizeal
+Note globale|6
+-|-
+Graphisme|Il faut aimer avec un soft marqué par le style à « l’européenne »
+Son|Technoïde avec certains thèmes intéressants et d’autres vraiment médiocres

@@ -1,0 +1,26 @@
+#Bullet GBA 5.0
+
+Caractéristiques | Information
+- | -
+Testeur|Yace
+Année|2007
+Support|GBA
+Editeur|Takayama Fumihiko
+Joueurs|1
+Scrolling|nop
+
+## Critique
+Après avoir bien décrypté (enfin presque) <b>Vulkanon</b> , manic shooter homebrew GBA, ma curiosité de connaitre ce <b>Bullet Gba</b> s'est fait jour, et donc je vous en fais profiter. Il est pas gentil, tonton Yace ?<br/><br/>Ce homebrew est réellement incroyable. Le jeu annonce clairement la couleur: il s'agit d'un soft d'entrainement à la négociation de patterns, doublé d'un authentique défi à mon sens purement impossible. <br/><br/>Le jeu propose 4 levels de parfaite démence. Et quand je dis démence, le mot est faible. De mémoire de shooteux, je n'ai <b>jamais vu un pareil délire</b>. Les patterns sont réellement incontrôlables, et survivre ne fût-ce que quelques secondes sous cet inimaginable déluge est déjà une authentique fierté. Chaque niveau est selectionnable dès l'origine, essayez le level 4 pour voir ! Quoique , en toute franchise, je n'ai jusqu'à présent réussi qu'à finir le premier level, et dans le sang et la sueur. Nul doute que les plus forts d'entre nous (je pense notamment à ceux qui ont vaincu des jeux comme <b>Radio Zonde</b>, <b>Hellsinker</b> ou encore <b>Dragon Blaze</b>) arriveront à force de patience et de persévérance à finir les tableaux supérieurs, et encore, je dois avouer que j'en doute. Mais il est assez maklvenu de critiquer monsieur Fumihiko, la difficulté réellement insurmontable relève assurément de la volonté du concepteur de tester les joueurs les plus acharnés. En toute franchise et pour conclure ce passage sur le jeu <b>Bullet GBA</b> en lui-même, je pense réellement que l'on tient là un produit réellement infinissable, qui révèlera à celui qui s'y frotte à quel point il est endurant. Contrairement à <b>Vulkanon</b>, vos vies seront ici limitées, mais plus le temps. En gros, il vous faudra miser sur vos capacités de positionnement, et non plus sur l'effort temporel.<br/><br/>Je vous disais en intro qu'il s'agissait également un soft d'entrainement. Ici, <b>Bullet GBA</b> est carrément un jeu d'esquive, même plus un shmup, pour la seule raison que ces modes n'autorisent pas la commande de tir. Il s'agit d'esquiver pour survivre, point. Ces modes comptent le temps que vous tiendrez, afin de chiffrer votre résistance. Et croyez-moi mes agneaux, c'est un défi aussi vaste qu'inimaginable.<br/><br/>Inimaginable car les patterns sont franchement purement délirants, conférant parfois à l'absurde le plus total. Et vaste car le jeu ne fait pas les choses à moitié en vous proposant deux types d'entrainement:<br/><br/>-le mode "Bullet Morph", qui vous demandera de choisir le type de pattern que vous désirez négocier. Rotatif, autoguidé, circulaire, évolutif...Et vu le nombre de figures disponibles, je pense réellement que Takayama Fumihiko pourrait donner des leçons aux concepteurs de feu Psikyo ou même à ceux de chez Cave, et je persiste et signe. Cet homme a réellement un esprit purement démoniaque...Et drôlement imaginatif.<br/>-le mode "Barrage", qui vous permet de choisir une reproduction des types de patterns vus dans d'autres jeux. Et il y a le choix ! Monsieur Fumihiko est réellement une véritable encyclopédie du motif de tir, il a réussi tel un chimiste à isoler l'essence même des patterns de chaque jeu afin de la restituer dans des séances d'entrainement éprouvantes. Petite liste:<br/><br/>Les jeux dont les patterns sont inspirés ici présents:<br/><br/><b>DoDonpachi / DDP Dai Ou Jou / Dragon Blaze / ESP Galuda / ESP Rade / Guwange / G-Darius / Battle Garegga / Gigawing 2 / Ketsui / Progear No Arashi / Psyvariar / Radiant Silvergun / Strikers 1945 III / XII Stag / la série des Touhou</b>.<br/><br/>Avouez que c'est quand même pas mal,hein ! Et non, ce n'est pas un canular.<br/><br/>Voilà. Amateurs de boulettes, ce jeu est vraiment fait pour vous, mais vous êtes prévenus: c'est complètement insensé, c'est une reprise ultra-radicale du principe même du manic shooter, c'est d'une densité inouie et jamais vu (à monsens, plus difficile, c'est impossible). Un authentique <i>ULTRASHMUP</i>. (Merci à Katmoda de me laisser reprendre cette expression déjà employée dans le test de <b>Radio Zonde</b>, qui ferait presque pâle figure à coté des niveaux de ce <b>Bullet GBA</b>).<br/><br/><i>NOTE: comme pour Vulkanon, il vous faudra la version 1.80 bêta 3 pour faire tourner ce jeu sous sa forme optimale (version 5.0). De base, le jeu est un mode de vue latérale: si vous voulez en profiter pleinement, mettez votre moniteur  en TATE et reconfigurez votre périphérique selon ce nouvel affichage. Bien qu'à l'état pur, ce soft permette aussi donc de s'entrainer aux patterns façon "manics horizontaux".</i><br/>
+
+## Illustrations
+![](http://www.shmup.com/images/thumbs/img_fiche_1_996.png)
+![](http://www.shmup.com/images/thumbs/img_fiche_2_996.png)
+![](http://www.shmup.com/images/thumbs/img_fiche_3_996.png)
+![](http://www.shmup.com/images/thumbs/img_fiche_4_996.png)
+![](http://www.shmup.com/images/thumbs/img_fiche_5_996.png)
+
+## L'avis Yace
+Note globale|8
+-|-
+Graphisme|Des millions projectiles  qui constituent le graphisme à eux tous seuls
+Son|Thème sympa et bruitages d'explosions excellents.

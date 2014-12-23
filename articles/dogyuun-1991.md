@@ -1,0 +1,26 @@
+#Dogyuun
+
+Caractéristiques | Information
+- | -
+Testeur|Katmoda
+Année|1991
+Support|Arcade
+Editeur|Toaplan
+Joueurs|3
+Scrolling|ver
+
+## Critique
+Imaginez un shoot ou le cyborg d'OutZone emprunte le vaisseau de Truxton au lieu de se ballader à pieds, vous aurez, en gros, une bonne idée de ce que peut donner <b>Dogyuun</b>. Classique assez peu connu de Toaplan, ce jeu représente un excellent résumé de leur style, et surtout de leur talent.<br/><br/>Graphiquement Dogyuun se rapproche très nettement de jeux comme Truxton 2 (sortis à des intervalles très rapprochés): un style de dessin ultra précis, aux finitions méticuleuses, de GROS boss (de gros robots)  très chargés en détails, des décors riches, souvent en vue isométrique, dans des univers futuristes. Les finitions sont d'une rare excellence, tous les sprites sont animés très finement: rien que pour l'exemple, un simple cratère d'explosion au sol est constituée de <i>trois</i> sprites animés différents... Une belle démonstration du style un peu "horreur du vide" de Toaplan, dont les graphistes maniaques obsessionnels inondent de minuscules détails le moindre petit recoin d'écran. La surcharge est d'ailleurs le maître mot de Dogyuun: tout est énorme, en triple, rien que les simples demi boss anecdotiques présentés ici pourraient faire pâlir d'envie les chefs d'oeuvres de nombre d'autres jeux de la même époque...<br/><br/>Si le look rappelle donc OutZone ou Truxton 2 par son style chargé et précis, le jeu a pour le reste une identité bien propre. Le système d'armement, pour commencer, est assez inhabituel. Le vaisseau dispose d'une arme au choix parmi plusieurs, et d'une sorte de petite armure amovible lui apportant un bonus. Les armes d'abord sont assez curieuses: accessibles par un power up qui change de couleur régulièrement, elles ont la particularité, en plus de leur look peu commun, d'être quasiment toutes homing (à l'exception du tir basique, ressemblant furieusement à un canon à crême chantilly). Le gameplay s'en trouve du coup fortement orienté: les armes se chargeant elles-mêmes de la plupart du sale boulot, le joueur est amené à plus se concentrer sur les placements et l'esquive.<br/>Les capacites de déplacement sont boostées par une des deux armures, la bleue, qui permet en appuyant sur B de se déplacer à toute vitesse, façon "Dogyuun qui valait trois milliards". L'autre harnais, violet, est en fait une smart bomb à usage unique. Si le vaisseau se fait descendre, son armure est perdue (la violette explose d'ailleurs, bien fait) mais pas son arme.<br/><br/>Equipé ainsi de ce matériel peu courant, on peut parcourir les longs niveaux, défilant en continu (seul un petit message affiché marque la fin d'un niveau), ponctués de pas mal de petites mises en scène sympathiques, comme ces immenses portes de hangar qui s'ouvrent, ou ces passages avec scrolling accéléré. Les boss bénéficient aussi de quelques trouvailles, comme le très vicieux monstre de la cascade, lançant des rideaux laser de la taille de l'écran, obligeant le joueur à éparger de petits ennemis pour s'abriter derrière.<br/><br/>Splendide et original donc, Dogyuun n'est pourtant pas sans défauts. Reproche majeur: une difficulté à la répartition parfois mystérieuse. On traverse, sans ordre ni réelle progression, des passages d'une désarmante facilité (les armes à tête chercheuse étant en plus d'une efficacité redoutable) et d'autres qui sont d'une surprenante résistance... Un level design bizarre donc, qui risque au pire de faire alterner chez le joueur des phases d'ennui à des phases de frustration.<br/>La lisibilité est de plus parfois limite, notamment dans les zones à scrolling rapide, mais c'est plus une question d'habitude.<br/><br/>Dogyuun propose enfin deux grandes originalités, dont une réellement unique. Du rare d'abord, avec la possiblité, lors du jeu à deux joueurs, de combiner les deux engins en un seul monstre surarmé. Idéal pour pilonner les passages encombrés (ou laisser le meilleur joueur s'occuper des boss résistants ^^). Du jamais vu ensuite (attention spoiler), avec un incroyable power up transformant ce shoot vertical en... <i>beat'em all</i>! Un bonus, en toute fin de jeu, remplace votre petit chasseur par un énorme mecha (screenshot ci joint, il fait bien la moitié de l'écran...), qui ne tire plus mais distribue des beignes. Un passage aussi cocasse que maladroit, le design splendide des robots ne parvenant pas à faire oublier la maniabilité horrible du panzer (on avance mollement, en matraquant un bouton, rien de vraiment excitant...). Reste que c'est du jamais vu, la première fois ca surprend...<br/><br/>Un bien bon shoot donc, riche à tous les niveaux, notamment en bizarreries, bel exemple du style Toaplan.
+
+## Illustrations
+![](http://www.shmup.com/images/thumbs/img_fiche_1_60.gif)
+![](http://www.shmup.com/images/thumbs/img_fiche_2_60.gif)
+![](http://www.shmup.com/images/thumbs/img_fiche_3_60.gif)
+![](http://www.shmup.com/images/thumbs/img_fiche_4_60.jpg)
+![](http://www.shmup.com/images/thumbs/img_fiche_5_60.gif)
+
+## L'avis Katmoda
+Note globale|9
+-|-
+Graphisme|L'horreur du vide toaplanesque dans toute sa splendeur: une hallucinante densité de détails.
+Son|--- non émulé

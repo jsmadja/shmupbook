@@ -1,0 +1,26 @@
+#Slap Fight
+
+Caractéristiques | Information
+- | -
+Testeur|Yace
+Année|1993
+Support|Megadrive
+Editeur|Tengen
+Joueurs|1
+Scrolling|ver
+
+## Critique
+Conversion MD d'un shooter arcade de 1986, <b>Slap Fight</b> est de ce genre de jeu destiné à des joueurs prêts à devoir analyser chaque situation afin d'arriver à franchir les niveaux du jeu.<br/><br/>Quand Toaplan fait du Gradius, cela donne...Slap Fight ! Le classique de Konami, sorti un an auparavant, a manifestement inspiré le gameplay du jeu, et même le petit son lors du lancement du jeu ne trompe pas...Aux commandes de votre engin, à vous de franchir les longs passages en collectant les item-étoile qui vous permettront de choisir votre équipement sur la barre d'options. Speed up, augmentations de votre puissance de feu, tir de missiles, de bombes et autres lasers et finalement un bouclier. Le tout dans un jeu graphiquement clair mais avec certains passages à la lisibilité réduite. L'environnement musical est cependant assez anodin mais colle assez bien à l'action pour un shooter au cachet très "micro" je trouve.<br/><br/>L'entreprise, correctement réalisée, ne tardera pas à s'avérer très éprouvante tant la difficulté est présente et le jeu punitif. La première caractéristique de ce gameplay réside en l'étrange limitation de la portée des tirs qui ne couvrent qu'une faible distance, quel qu'il soit, exception faite du homing missile. Et autre particularité étrange, directement liée à cette limitation, tout autre tir -que l'on doit pouvoir choisir au prix de la collecte d'items- est finalement moins efficace que le piou-piou de base. Le laser vous obliger à matraquer e bouton pour une puissance fort limitée et une portée traitreusement courte. Le tir de bombe est très puissant mais vous forcera à de suicidaires corps à corps, ne resteront donc que le tir par défaut et le homing missile qui pour le coup balaie l'écran, mais avec une puissance plus que faiblarde...Au final le jeu devient donc un véritable piège avec des ennemis ajustés qui ne tarderont que trop peu à former des salves de projectiles rapides plus que délicates à esquiver. Cerise sur le gâteau, dès que vous selectionnez un armement nouveau, votre coucou est automatiquement recentré à l'écran...Mal vu car cela vous force ensuite à devoir reprendre un positionnement adapté, qui correspond rarement avec le centre de l'écran ! Imaginez s'il en était de même dans Gradius, les crises de nerfs...<br/><br/>Mais le menu des options vous réserve une surprise avec la présence d'un autre mode de jeu qui est carrément une version différente et exclusive du jeu, intitulée <b>Slap Fight MD</b> !  Et là, on découvre un jeu aux graphismes considérablement revus à la hausse avec un rendu beaucoup plus plus proche de celui d'un Truxton et surtout une bande sonore bien meilleure et même carrément bonne ! Le jeu est également bien plus nerveux, le tir de base est plus large et plus dynamique...Les écueils de la version de 1986 ont-ils été gommés ?<br/>Et bien non ! Et ce qui apparaissait rigide en 1986 devient carrément sec comme un coup de trique en 1993. Tout est repris : la difficulté outrancière après quelques écrans, la lenteur de l'engin, les tirs qui sont restés finalement plus handicapants que réellement bénéfiques (alors qu'il faut toujours autant d'endurance pour pouvoir être seulement à même de les sélectionner), un sprite dont la taille vous rend extrêmement vulnérable, des passages casse-gueule qui passent d'occasionnels à carrément continus en quelques écrans, et toujours ce "recentrage" importun lorsque que vous équipez votre barque, sous le feu concentré et nourri d'ennemis et autres tourelles  parfois si discrets que les voir relève de l'exploit...Bref à nouveau un shooter particulièrement punitif à réserver aux techniciens purs, de ceux qui ne redoutent pas de devoir se taper un jeu long, nécessairement en une vie car les reprises au checkpoint sont de nature à sonner le glas de chaque partie (recommencer direct sous le feu ennemi, nourri et ajusté, même un speed-up de reserve...Bonjour quoi !).<br/><br/>En bref, deux jeux plutôt bien réalisés, mais appartenant clairement à un genre de shmup au gameplay très daté qui, s'il avait son public dans les années 80, ne risque aujourd'hui que de rencontrer une audience bien plus restreinte. L'évolution a voulu qu'à présent, soient largement privilégiés les jeux à la prise en main plus instinctive, rapide voire immédiate. Car sans atteindre des sommets d'absurdité comme ce fut le cas avec Tiger Heli par exemple, Slap Fight et Slap Fight MD souffrent aujourd'hui de leur maniement, ce qui n'était pas forcément un souci en son temps...Mais maintenant, c'est clairement peu engageant.
+
+## Illustrations
+![](http://www.shmup.com/images/thumbs/img_fiche_1_1491.png)
+![](http://www.shmup.com/images/thumbs/img_fiche_2_1491.png)
+![](http://www.shmup.com/images/thumbs/img_fiche_3_1491.png)
+![](http://www.shmup.com/images/thumbs/img_fiche_4_1491.png)
+![](http://www.shmup.com/images/thumbs/img_fiche_5_1491.png)
+
+## L'avis Yace
+Note globale|5
+-|-
+Graphisme|Correct dans Slap Fight, bien meilleur dans Slap Fight MD.
+Son|Anodin dans Slap Fight, franchement bon dans Slap Fight MD.

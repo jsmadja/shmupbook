@@ -1,0 +1,26 @@
+#Metal Torrent
+
+Caractéristiques | Information
+- | -
+Testeur|M.Knight
+Année|2009
+Support|DS
+Editeur|Arika
+Joueurs|1
+Scrolling|ver
+
+## Critique
+Pour un fan de shoot'em up, le nom d'Arika est surtout associé aux portages PS2 d'ESP Galuda et DoDonPachi Dai Ou Jou, ainsi que l'adaptation de Ketsui sur la Nintendo DS. On peut maintenant ajouter à cette liste un shoot em up cette fois spécialement crée pour le DsiWare.<br/><br/>Aa Mujô Setsuna, renommé Metal Torrent en Occident, est un STG se jouant à deux bouttons (que l'on peut assigner librement aux bouttons de la console) et composé de 8 stages, appelés « phases », dont 3 se terminant par un boss. Deux vaisseaux faisant office de niveaux de difficulté sont mis à notre disposition : le Red Orion (Facile) et le Blue Nova (Difficile). En plus de cela, il existe deux modes de jeu : le Pattern Mode, où les vagues d'ennemis sont prédéfinies, et le Random Mode, qui rend le level-design aléatoire. Une partie dure au grand maximum 15 minutes (Mais 15 minutes intenses) , ce qui idéal pour une console portable.<br/><br/>Le système de scoring constitue un élément majeur du jeu, si ce n'est le seul, et il est important de s'y attarder. Chaque vaisseau dispose d'un tir principal et d'une arme secondaire. Lorsqu'un ennemi est abattu, il laisse tomber des cubes qui seront automatiquement collectés par le vaisseau et qui remplissent la jauge qui limite l'utilisation de l'arme secondaire. L'objectif est de faire apparaître en permanence des cubes à l'écran pour continuer sa chaîne et accumuler les points. C'est là que l'arme auxiliaire de chaque vaisseau entre en jeu : le Red Orion dispose d'une bombe qui transforme les projectiles aux alentours en cubes et le Blue Nova possède un tir concentré pas très large mais qui ralentit toutes les boulettes dans un petit rayon, puis les transforme en cubes une fois un ennemi détruit avec le laser. Les cubes en eux mêmes peuvent gagner en valeur en effectuant des gros cancels. On a au final un habile mélange entre Ketsui et DoDonPachi où l'on cherche à obtenir des cubes d'une grande valeur puis faire perdurer la chaîne pour conserver cette valeur. Les joueurs familiers avec les jeux Cave reconnaîtront quelques similitudes, ou du moins des sources d'inspiration. On retrouve notamment le plaisir visuel inhérent aux productions Cave lors des cancels massifs.<br/><br/>Le système peut sembler complexe sur le papier, mais il devient en réalité assez intuitif, et les quelques subtilités sont expliquées dans le jeu. Et heureusement car tout l'intérêt du jeu repose dans le scoring. Les stages se ressemblent presque tous les uns aux autres, les vaisseaux ennemis sont plutôt variés mais les vagues en elles même sont assez similaires, et il n'y a pas beaucoup de thèmes musicaux différents. De plus, le 1CC est assez aisé, notamment avec le Red Orion. En fait, il dispose d'un Auto-bomb et il est possible d'atteindre le dernier boss avec ce vaisseau uniquement en laissant la touche tir enfoncée et en ne bougeant pas. <br/><br/>Toujours est-il que le jeu est très soigné, avec par exemple la possibilité de jouer sur l'écran du haut ou du bas, tout en mettant les informations de jeu tels le score sur l'écran inutilisé, et en plaçant la jauge de l'arme secondaire près de l'écran où se déroule l'action que celui-ci soit en haut ou en bas, afin qu'elle reste près du champ de vision du joueur. Sortir du menu pause en pleine action offre un compte à rebours de 3 secondes avant de reprendre afin de laisser au joueur la possibilité d'éviter de faire une erreur dans la précipitation, ce qui est une attention très appréciable. A côté de ça, Metal Torrent comptabilise de multiples données de jeu comme le nombre de parties ou le nombre d'ennemis tués.<br/><br/>Et, dernier élément qui est un atout non négligeable dans un jeu axé sur le score : les replays. Metal Torrent enregistre automatiquement le replay de votre meilleur score dans chacune des 4 combinaisons de jeu possibles, et grâce à la connexion Wi-Fi Nintendo, il est possible de consulter des classements en ligne et regarder les replays des 10 meilleurs joueurs.<br/><br/>Au final , qu'a t-on devant nous ? Un très bon jeu, adapté au débutant comme au vétéran, avec une richesse insoupçonnée, mais qui peut ne pas plaire à tous. Si l'on attend d'un shoot qu'il possède une ambiance forte et des boss emblématiques qui enrichissent l'expérience, qu'on est très réceptif à l'univers qui entoure le jeu ou qu'on est uniquement attiré par le 1CC, Metal Torrent risque de paraître limité et pauvre en contenu. D'un autre côté, les scoreurs (et accessoirement les fans de Cave) seront ravis, d'autant que la DS ne possède pas énormément de STG dans sa ludothèque.<br/><br/>PS : Les screenshots proviennent du site Siliconera.<br/>
+
+## Illustrations
+![](http://www.shmup.com/images/thumbs/img_fiche_1_1518.png)
+![](http://www.shmup.com/images/thumbs/img_fiche_2_1518.png)
+![](http://www.shmup.com/images/thumbs/)
+![](http://www.shmup.com/images/thumbs/)
+![](http://www.shmup.com/images/thumbs/)
+
+## L'avis M.Knight
+Note globale|8
+-|-
+Graphisme|Tout ce qu'il y a de plus correct, mais peu de variété.
+Son|Musiques et bruitages discrets mais plutôt efficaces.
